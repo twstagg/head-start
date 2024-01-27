@@ -1,8 +1,8 @@
 {
-  "name": "head-start",
-  "version": "1.0.1",
-  "factorio_version": "1.1",
-  "title": "Head Start",
-  "author": "twsta",
-  "description": "[Github repo](https://github.com/twstagg/head-start)\n\nYou were able to salvage some supplies out of what used to be the cargo bay.\n\nThis is a Freeplay Scenario extension.\n\nThis was my first venture into modding Factorio. I'm merging it into my new mod, [Freeplay Forces](https://mods.factorio.com/mod/head-start)."
+	"name": "head-start",
+	"version": "1.0.1",
+	"factorio_version": "1.1",
+	"title": "Head Start",
+	"author": "twsta",
+	"description": "[Github repo](https://github.com/twstagg/head-start)\n\nYou were able to salvage some supplies out of what used to be the cargo bay.\n\nThis is a Freeplay Scenario extension.\n\nThis was my first venture into modding Factorio. I'm merging it into my new mod, [Freeplay Forces](https://mods.factorio.com/mod/freeplay-forces)."
 }
